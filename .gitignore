@@ -1,0 +1,10 @@
+# IDE or editor
+/.vscode
+
+### Python ###
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
