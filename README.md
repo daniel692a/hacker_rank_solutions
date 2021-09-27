@@ -6,3 +6,4 @@ Index:
 3. [Compare Triplets](./compare_the_triplets/ctp.py)
 4. [A very big sum](a_very_big_sum/avbs.cpp)
 5. [Diagonal Difference](diagonal_difference/dd.py)
+6. [Plus Mini](plus_minus/pm.py)
