@@ -16,6 +16,9 @@ def birthday_cake_candles(ar):
     tallest = tallest_candle(ar)
     return count(ar, tallest)
 
+def birthday_cake_candles_2(arr):
+    return arr.count(max(arr))
+
 if __name__ == '__main__':
     ar_test = [3, 2, 1, 3]
     print(birthday_cake_candles(ar_test))
