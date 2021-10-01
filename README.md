@@ -11,3 +11,4 @@ Index:
 8. [Mini-max sum](./mini_max_sum/mms.py)
 9. [Birthday Cake candles](./birthday_cake_candles/bcc.py)
 10. [Time Conversion](./time_conversion/tc.py)
+11. [Grading Students](./grading_students/gs.py)
