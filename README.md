@@ -17,3 +17,4 @@ Index:
 14. [Between Two Sets](./between_two_sets/bts.py)
 15. [Breaking the Records](breaking_the_records/btr.py)
 16. [Subarray Divisions](subarray_divisions/sd.js)
+17. [Divisible Sum Pairs](./divisible_sum_pairs/dsp.js)
