@@ -18,3 +18,4 @@ Index:
 15. [Breaking the Records](breaking_the_records/btr.py)
 16. [Subarray Divisions](subarray_divisions/sd.js)
 17. [Divisible Sum Pairs](./divisible_sum_pairs/dsp.js)
+18. [Migratory Birds](./migratory_birds/mb.py)
