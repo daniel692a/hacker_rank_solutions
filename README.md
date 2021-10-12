@@ -19,3 +19,4 @@ Index:
 16. [Subarray Divisions](subarray_divisions/sd.js)
 17. [Divisible Sum Pairs](./divisible_sum_pairs/dsp.js)
 18. [Migratory Birds](./migratory_birds/mb.py)
+19. [Day of the Programmer](./day_of_the_programmer/dotp.js)
