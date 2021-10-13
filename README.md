@@ -20,3 +20,4 @@ Index:
 17. [Divisible Sum Pairs](./divisible_sum_pairs/dsp.js)
 18. [Migratory Birds](./migratory_birds/mb.py)
 19. [Day of the Programmer](./day_of_the_programmer/dotp.js)
+20. [Bill division](./bill_division/bd.py)
