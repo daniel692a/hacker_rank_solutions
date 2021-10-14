@@ -21,3 +21,4 @@ Index:
 18. [Migratory Birds](./migratory_birds/mb.py)
 19. [Day of the Programmer](./day_of_the_programmer/dotp.js)
 20. [Bill division](./bill_division/bd.py)
+21. [Sales by match](./sales_by_match/sbm.py)
