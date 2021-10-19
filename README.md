@@ -24,3 +24,5 @@ Index:
 21. [Sales by match](./sales_by_match/sbm.py)
 22. [Drawing Book](./drawing_book/db.js)
 23. [Counting Valleys](./counting_valleys/cv.js)
+24. [Electronics Shop](./electronics_shop/es.js)
+25. [Cats and a mouse](./cats_and_mouse/cam.js)
