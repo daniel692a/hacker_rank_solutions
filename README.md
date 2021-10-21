@@ -27,3 +27,4 @@ Index:
 24. [Electronics Shop](./electronics_shop/es.js)
 25. [Cats and a mouse](./cats_and_mouse/cam.js)
 26. [Angry Professor](./angry_professor/ap.js)
+27. [Minimum Distance](./minimum_distances/md.js)
