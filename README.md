@@ -29,3 +29,4 @@ Index:
 26. [Angry Professor](./angry_professor/ap.js)
 27. [Minimum Distance](./minimum_distances/md.js)
 28. [The Hurdle Race](./hurdle_race/hr.js)
+29. [Beautiful Days](./beautiful_days/bd.js)
