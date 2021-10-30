@@ -31,4 +31,5 @@ Index:
 28. [The Hurdle Race](./hurdle_race/hr.js)
 29. [Beautiful Days](./beautiful_days/bd.js)
 30. [Viral Advertising](./viral_advertising/va.js)
+31. [Save The Prisioner](./save_the_prisioner/stp.js)
 31. [Circular Array Rotation](./circular_array_rotation/car.js)
