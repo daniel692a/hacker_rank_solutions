@@ -33,3 +33,4 @@ Index:
 30. [Viral Advertising](./viral_advertising/va.js)
 31. [Save The Prisioner](./save_the_prisioner/stp.js)
 31. [Circular Array Rotation](./circular_array_rotation/car.js)
+32. [Utopian Tree](./utopian_tree/ut.js)
