@@ -34,3 +34,4 @@ Index:
 31. [Save The Prisioner](./save_the_prisioner/stp.js)
 31. [Circular Array Rotation](./circular_array_rotation/car.js)
 32. [Utopian Tree](./utopian_tree/ut.js)
+33. [Find Digits](./find_digits/fd.js)
