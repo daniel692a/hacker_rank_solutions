@@ -35,3 +35,4 @@ Index:
 31. [Circular Array Rotation](./circular_array_rotation/car.js)
 32. [Utopian Tree](./utopian_tree/ut.js)
 33. [Find Digits](./find_digits/fd.js)
+34. [Jumping on the clouds](./jumping_on_the_clouds/jotc.js)
