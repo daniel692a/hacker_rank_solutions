@@ -36,3 +36,4 @@ Index:
 32. [Utopian Tree](./utopian_tree/ut.js)
 33. [Find Digits](./find_digits/fd.js)
 34. [Jumping on the clouds](./jumping_on_the_clouds/jotc.js)
+35. [Repeated String](./repeated_string/rs.js)
